@@ -1,2 +1,7 @@
-# hello-world
-simple demo of hello-world project for using github
+# Hi raj how are you 
+
+#include <stdio.h>
+void main()
+{
+  printf("hello raj");
+}
