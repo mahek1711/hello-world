@@ -14,5 +14,12 @@ int main()
 	printf("Total sum = %d\n",sum);
 
 asdfghj
+	printf("adding\n");
+	printf("Total sum = %d\n",sum);
+
+	printf("Total sum = %d\n",sum);
+	printf("abhi added this line\n");
+
+	printf("This is baytiful atmosphere\n");
 
 }
