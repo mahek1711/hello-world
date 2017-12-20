@@ -15,8 +15,8 @@ int main()
 
 	printf("Total sum = %d\n",sum);
 
-	printf("Total sum = %d\n",sum);
-	printf("abhi added this line\n");
+aaaa	printf("Total sum = %d\n",sum);
+aaa	printf("abhi added this line\n");
 
 	printf("This is baytiful atmosphere\n");
 
