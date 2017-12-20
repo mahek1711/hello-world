@@ -6,6 +6,13 @@ int main()
 	for(i=0;i<6;i++){
 	sum += i;
 	}
+
 	printf("adding\n");
 	printf("Total sum = %d\n",sum);
+
+	printf("Total sum = %d\n",sum);
+	printf("abhi added this line\n");
+
+	printf("This is baytiful atmosphere\n");
+
 }
